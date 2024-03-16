@@ -1,6 +1,6 @@
 package ru.netology.stats;
 
-import static org.junit.jupiter.api.Assertions.*;
+
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
